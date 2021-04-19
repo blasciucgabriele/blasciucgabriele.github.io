@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+
+#textName{
+    position: fixed;
+    left: 500px;
+    top:150px;
+    font-size: 180px;
+    color: white;
+}
+
+
+#textHomeDescription{
+    position: fixed;
+    left: 500px;
+    top:500px;
+    font-size: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+#navigationPage{
+    position: fixed;
+    left: 550px;
+    margin-top: 20px;
+    top:1300px;
+    font-size: 100px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navigationPage2{
+    position: fixed;
+    left: 10px;
+    margin-top: 20px;
+    top:50px;
+    font-size: 100px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a{
+    color:whitesmoke;
+    margin-top: 40px;
+}
+
+li a:hover{
+    color:#640200;
+}

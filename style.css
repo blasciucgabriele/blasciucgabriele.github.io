@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+
+#textName{
+    position: fixed;
+    left: 2500px;
+    top:850px;
+    font-size: 180px;
+    color: white;
+}
+
+#poza{
+    position: fixed;
+    left: 300px;
+    top:500px;
+    height: 1700px;
+}
+
+#textHomeDescription{
+    position: fixed;
+    left: 2500px;
+    top:1100px;
+    font-size: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#textDolci{
+    position: fixed;
+    left: 300px;
+    top:1100px;
+    font-size: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#navigationPage{
+    position: fixed;
+    left: 5200px;
+    margin-top: 20px;
+    top:1100px;
+    font-size: 100px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a{
+    color:whitesmoke;
+    margin-top: 40px;
+}
+
+li a:hover{
+    color:#640200;
+}
