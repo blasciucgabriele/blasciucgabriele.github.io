@@ -18,12 +18,18 @@ body{
     height: 1200px;
     width: 2500px;
 }
+#torinoPoza:hover{
+    transform: scale(1.3);
+}
 #dolciPoza{
     position: fixed;
     left: 3300px;
     top:1600px;
     height: 1200px;
     width: 2500px;
+}
+#dolciPoza:hover{
+    transform: scale(1.3);
 }
 #textDolci{
     position: fixed;
@@ -67,8 +73,10 @@ li a{
     position: fixed;
     left:10px;
     top:10px;
+    transition: font-size 2s;
 }
 
 li a:hover{
     color:#640200;
+    font-size: 100px;
 }

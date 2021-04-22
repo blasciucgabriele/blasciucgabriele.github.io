@@ -46,8 +46,10 @@ body{
 li a{
     color:whitesmoke;
     margin-top: 40px;
+    transition: font-size 2s;
 }
 
 li a:hover{
     color:#640200;
+    font-size: 100px;
 }
